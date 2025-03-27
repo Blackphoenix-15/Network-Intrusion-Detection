@@ -13,7 +13,7 @@ Machine learning pipeline for detecting network intrusions using the UNSW-NB15 d
 - Comprehensive evaluation (accuracy, precision, recall, AUC)
 
 ## Dataset
-[UNSW-NB15 Dataset](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)  
+[UNSW-NB15 Dataset](https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15)  
 - Training set: 175,341 samples
 - Testing set: 82,332 samples  
 - 45 features including:
