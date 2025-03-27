@@ -66,20 +66,4 @@ MIT License - See LICENSE for details.
 
 ---
 
-### Key Features of This Setup:
-1. **Concise Metadata**: Badges for Python version and license
-2. **Modular Structure**: Clear separation of preprocessing/training/evaluation
-3. **Reproducibility**: `requirements.txt` for dependencies
-4. **Visual Results**: Table summarizing key metrics
-5. **Actionable Commands**: Ready-to-run example scripts
-
-To implement:
-1. Create a new GitHub repository
-2. Add this README.md
-3. Structure your code files according to the directory layout
-4. Include a `requirements.txt` with your Python packages
-5. Add your Jupyter notebooks and report PDF (from Overleaf)
-
-?
-
 
