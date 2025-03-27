@@ -30,17 +30,17 @@ Usage
 Preprocessing data:
 
 python
-Copy
+
 python preprocess.py --input data/UNSW_NB15_training-set.csv
 Train models:
 
 python
-Copy
+
 python train.py --model xgboost
 Evaluate performance:
 
 python
-Copy
+
 python evaluate.py --threshold 0.1234
 Results Summary
 Model	Accuracy	Precision	Recall	AUC
@@ -49,7 +49,7 @@ Random Forest	90.0%	99.0%	86.0%	0.982
 LightGBM	90.0%	99.0%	86.0%	0.986
 SVM	91.3%	90.5%	91.0%	0.962
 Directory Structure
-Copy
+
 ├── data/                   # Raw dataset files
 ├── notebooks/              # Jupyter notebooks for analysis
 ├── src/
@@ -62,7 +62,7 @@ Copy
 License
 MIT License - See LICENSE for details.
 
-Copy
+
 
 ---
 
